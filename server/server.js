@@ -21,8 +21,17 @@ app.use('/api/user', userRouter)
 app.use('/api/owner', ownerRouter)
 app.use('/api/bookings', bookingRouter)
 
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, ()=> console.log(`Server running on port ${PORT}`))
+// When deployed on Vercel as a serverless function we must not call `app.listen`.
+// Export a handler function instead so Vercel's Node builder can invoke the Express app.
+export default function handler(req, res) {
+    return app(req, res);
+}
+
+// Start a local server when running directly (keeps local `npm start` working)
+if (!process.env.VERCEL) {
+    const PORT = process.env.PORT || 3000;
+    app.listen(PORT, ()=> console.log(`Server running on port ${PORT}`));
+}
 
 // Handle unhandled promise rejections
 process.on('unhandledRejection', (reason, promise) => {
