@@ -1,0 +1,396 @@
+[
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-16T09:40:08.686Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-16T09:40:41.907Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-16T09:46:29.742Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-16T10:45:25.053Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-16T10:46:24.752Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-16T10:46:31.519Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-23T05:57:37.878Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-23T06:02:48.696Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-23T06:13:16.097Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-23T06:13:19.061Z"
+  },
+  {
+    "userId": "6943b14e643f27c6b53f413a",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [
+      "Suspicious email pattern"
+    ],
+    "meta": {},
+    "timestamp": "2025-12-23T06:13:19.220Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-23T06:22:54.906Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-23T06:23:26.652Z"
+  },
+  {
+    "userId": "6937ca605c511a56d292a833",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-23T06:23:30.663Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T06:59:07.001Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T07:10:42.552Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T08:08:39.441Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:07:54.738Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:20:49.756Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:21:07.491Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:26:42.791Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:30:32.135Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:34:21.510Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:36:23.408Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:36:39.106Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:36:45.641Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:36:56.324Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:37:31.498Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T13:38:02.033Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T14:01:33.227Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T14:08:37.769Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T14:10:28.629Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T14:12:04.475Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T14:12:07.739Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T14:12:12.360Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2025-12-29T14:17:34.200Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-11T10:04:42.139Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-11T10:05:03.397Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-25T09:57:30.217Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-25T09:57:52.433Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-25T09:58:02.910Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-26T02:15:42.980Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-26T05:38:22.190Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-26T05:38:32.676Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-26T05:38:40.115Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-26T05:39:38.011Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-26T05:40:05.086Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-26T05:46:15.760Z"
+  },
+  {
+    "userId": "695226ae48f78ad79ee9c2f8",
+    "fraudScore": "low",
+    "isSuspicious": false,
+    "reasons": [],
+    "meta": {},
+    "timestamp": "2026-03-26T06:05:08.394Z"
+  }
+]
